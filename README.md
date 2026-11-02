@@ -1,5 +1,13 @@
 # LifeOS — design specifications
 
+**Problem.** LifeOS models a life as an economy of 12 objects and 5 entity types, which is too much to navigate as an iOS app unless every object has a home. Its web predecessor, Life Atlas, relied on manual data entry.
+
+**Idea.** Every object in the model gets exactly one primary home in the app (five tabs, one avatar, one capture button, three overlays), and state is inferred from real signals instead of typed in by hand.
+
+**Built.** Two design specs, an IA and surface map with 57 specced screens and a visual-language spec, published as working documents. There is no app code in this repo. 1 commit on 1 day, Aug 12, 2026.
+
+**Decision.** Colour carries no judgment, where a status scheme would paint a bad day red. Length, position and elapsed time carry the truth, and a single reserved accent marks the next small action.
+
 Two working design specs from **LifeOS**, an independent personal life-management system I have been designing and building for my own use since April 2026.
 
 Published here as a public, dated record of the work, and because they are the two documents I would most want another designer to read.
